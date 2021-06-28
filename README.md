@@ -22,7 +22,7 @@ Download your driver for selenium, then overwrite file in web_driver folder.
 
 Install python depedency(remember to use virtualenv is better)
 ```sh
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 This tools also provide easy DB demo for testing, here is postgres example.
